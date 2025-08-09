@@ -1,7 +1,7 @@
 # Hey, I’m Ben — aka VersionOne 👋
 
-I use AI to automate life, bend the rules, and skip boring work.  
-Bots, scripts, and random experiments — if it saves time or makes life easier, I’m building it.
+I use AI to automate random things, cheats, scripts, bots, and more.
+Make sure to check out my YouTube channel!
 
 ## 🚀 What I’m Working On
 - Launching my YouTube channel [VersionOne](https://youtube.com/@versiononedev)
