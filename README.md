@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I’m Ben — aka VersionOne 👋
 
-<!--
-**theversionone/theversionone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use AI to automate life, bend the rules, and skip boring work.  
+Bots, scripts, and random experiments — if it saves time or makes life easier, I’m building it.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On
+- Launching my YouTube channel [VersionOne](https://youtube.com/@versiononedev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech I Use
+Python · TypeScript · Next.js · React · Node.js · Redis · Vercel
+
+## 📫 Connect
+- YouTube: [VersionOne](https://youtube.com/@versiononedev)  
+
+## 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
